@@ -106,3 +106,4 @@ object1;
 //propety1: 42
 ```
 
+> http://2ality.com/2011/01/reflection-and-meta-programming-in.html
