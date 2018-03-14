@@ -4,6 +4,7 @@
 # Reflect
 
 ## Brief
+- "Reflect is a new global Object (like JSON or Math) that provides a bunch of useful introspection methods"
 - Reflect는 생성자가 아니다 (proxy는 글로벌 생성자임)
     - new 오퍼레이터를 쓰거나
     - Reflect 객체를 함수처럼 쓰지 말아라
@@ -106,3 +107,5 @@ object1;
 //propety1: 42
 ```
 
+> http://2ality.com/2011/01/reflection-and-meta-programming-in.html
+> https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-2-reflect/
